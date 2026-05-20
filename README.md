@@ -1,46 +1,58 @@
-# AI-CSV-Insight-Agent
 # 🤖 AI CSV Insight Agent
 
-An AI-powered data analysis tool that transforms raw CSV datasets into meaningful insights, KPIs, and business recommendations — all in seconds.
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![AI](https://img.shields.io/badge/AI-Gemini-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
 
-## 🚀 Overview
+## 🚀 Live Demo
+🔗 *Coming Soon...* (Deploy on Streamlit Cloud and paste link here)
 
-AI CSV Insight Agent is a Streamlit-based web application that allows users to:
+---
 
-- Upload CSV files 📂  
-- Analyze dataset structure 📊  
-- Detect missing values 🧹  
-- Generate AI-powered insights 🤖  
-- Get KPI suggestions 📈  
-- Receive Power BI dashboard ideas 💡  
+## 📸 Screenshots
 
-This project demonstrates how **Agentic AI** can automate the role of a data analyst.
+### 🔹 App Interface
+![App Screenshot](./assets/app-ui.png)
+
+> 💡 Upload CSV → Get Insights → Build Dashboards
+
+---
+
+## 🧠 Project Overview
+
+**AI CSV Insight Agent** is an AI-powered data analysis assistant that:
+
+👉 Converts raw CSV data into **actionable business insights**  
+👉 Automates **EDA (Exploratory Data Analysis)**  
+👉 Suggests **KPIs & Power BI dashboards**  
+👉 Provides **real-world business recommendations**
 
 ---
 
 ## ✨ Features
 
 - 📂 Upload any CSV dataset  
-- 🔍 Automatic dataset preview  
-- 📊 Basic dataset information (rows, columns, structure)  
-- 🧹 Missing values detection  
+- 🔍 Dataset preview & structure  
+- 📊 Rows, columns, and metadata  
+- 🧹 Missing value detection  
 - 🤖 AI-generated insights  
 - 📈 KPI recommendations  
-- 📊 Power BI dashboard suggestions  
+- 📊 Power BI dashboard ideas  
 - 💼 Business recommendations  
 
 ---
 
-## 🧠 How It Works
+## ⚙️ How It Works
 
 ```text
-CSV Upload
+Upload CSV
    ↓
 Data Processing (Pandas)
    ↓
-Dataset Summary + Missing Values
+Summary + Missing Values
    ↓
 Gemini AI Analysis
    ↓
