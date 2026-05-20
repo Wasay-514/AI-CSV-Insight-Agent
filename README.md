@@ -13,7 +13,7 @@
 ---
 
 ## 📸 Screenshots
-
+![App Screenshot]
 ### 🔹 App Interface
 <img width="1440" height="725" alt="1" src="https://github.com/user-attachments/assets/81656c1c-8baa-4d13-bf00-830bddb42fde" />
 <img width="1440" height="765" alt="2" src="https://github.com/user-attachments/assets/ea4ac6bf-c68d-43d4-a246-142b0ee42464" />
@@ -22,8 +22,6 @@
 <img width="1440" height="1090" alt="5" src="https://github.com/user-attachments/assets/e44f3bd9-464c-4579-bffc-270b30a8c4e9" />
 <img width="1440" height="580" alt="6" src="https://github.com/user-attachments/assets/4c284e9c-1fa5-4fa5-b935-1c3f2ccf96b8" />
 
-
-![App Screenshot](./assets/app-ui.png)
 
 > 💡 Upload CSV → Get Insights → Build Dashboards
 
